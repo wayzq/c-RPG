@@ -1,0 +1,6 @@
+NAME		PATH
+4
+MapDtMgr	data/MapDt.txt
+NpcDtMgr	data/NpcDt.txt
+ItemDtMgr	data/ItemDt.txt
+MonsterDtMgr	data/MonsterDt.txt

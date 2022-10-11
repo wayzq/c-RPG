@@ -1,0 +1,18 @@
+ID	NAME		HP	MP	ACK	DEF	PRICE	OHTER	DESCRIPTION	OVERLYING	NPCID	TYPE
+6
+hand	body	head	foot	necklace	ring
+手	身体	头	腿	项链	戒指
+13
+3001	大刀		0	0	100	0	100	0	这是一把刀	1		2001	hand
+3002	小刀		0	0	50	0	100	0	这是一把刀	1		2001	hand
+3003	大剑		-100	0	500	0	100	0	这是一把刀	1		2001	hand
+3004	布衣		10	0	0	10	100	0	这是一把刀	1		2002	body
+3005	帽子		0	0	0	50	100	0	这是一把刀	1		2002	head
+3006	鞋子		0	0	0	0	100	0	这是一把刀	1		2002	foot
+3007	红药水		100	0	0	0	100	0	这是一把刀	0		2003	consumables
+3008	蓝药水		0	100	0	0	100	0	这是一把刀	0		2003	consumables
+3009	攻击药水		0	0	50	0	100	0	这是一把刀	0		2003	consumables
+3010	回城卷轴		0	0	0	0	100	0	这是一把刀	0		2004	consumables
+3011	经验卷轴(小）	0	0	0	0	100	100	这是一把刀	0		2004	consumables
+3012	经验卷轴(中）	0	0	0	0	10000	1000	这是一把刀	0		2004	consumables
+3013	经验卷轴(大）	0	0	0	0	100000	100000	这是一把刀	0		2004	consumables
