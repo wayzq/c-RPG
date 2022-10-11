@@ -1,0 +1,3 @@
+﻿  Player.cpp
+C:\Users\86150\Desktop\陈羿超作业\DataBase.h(32,1): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  RolePlayerGame.vcxproj -> C:\Users\86150\Desktop\陈羿超作业\x64\Debug\RolePlayerGame.exe
