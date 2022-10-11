@@ -1,3 +1,89 @@
-﻿  Player.cpp
-C:\Users\86150\Desktop\陈羿超作业\DataBase.h(32,1): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
-  RolePlayerGame.vcxproj -> C:\Users\86150\Desktop\陈羿超作业\x64\Debug\RolePlayerGame.exe
+﻿  Bag.cpp
+D:\gitlibrary\c-RPG\DataBase.h(32,1): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+D:\gitlibrary\c-RPG\Bag.cpp(107,86): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\gitlibrary\c-RPG\Bag.cpp(174,122): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  Battle.cpp
+D:\gitlibrary\c-RPG\DataBase.h(32,1): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  DataBase.cpp
+D:\gitlibrary\c-RPG\DataBase.h(32,1): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  Equip.cpp
+D:\gitlibrary\c-RPG\DataBase.h(32,1): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+D:\gitlibrary\c-RPG\Equip.cpp(32,36): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\gitlibrary\c-RPG\DataMgr.h(16,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\gitlibrary\c-RPG\Equip.cpp(15): message : 查看对正在编译的函数 模板 实例化“T *CDataMgr::getMgr<CItemDtMgr>(std::string)”的引用
+          with
+          [
+              T=CItemDtMgr
+          ]
+  DataMgr.cpp
+D:\gitlibrary\c-RPG\DataBase.h(32,1): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  DataStruct.cpp
+D:\gitlibrary\c-RPG\DataBase.h(32,1): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+D:\gitlibrary\c-RPG\DataStruct.cpp(41,43): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  GameMap.cpp
+D:\gitlibrary\c-RPG\DataBase.h(32,1): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+D:\gitlibrary\c-RPG\DataMgr.h(16,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\gitlibrary\c-RPG\GameMap.cpp(10): message : 查看对正在编译的函数 模板 实例化“T *CDataMgr::getMgr<CMapDtMgr>(std::string)”的引用
+          with
+          [
+              T=CMapDtMgr
+          ]
+  GameMenu.cpp
+D:\gitlibrary\c-RPG\DataBase.h(32,1): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  GameMgr.cpp
+D:\gitlibrary\c-RPG\DataBase.h(32,1): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  Item.cpp
+D:\gitlibrary\c-RPG\DataBase.h(32,1): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  MenuSet.cpp
+D:\gitlibrary\c-RPG\DataBase.h(32,1): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  MessageMgr.cpp
+D:\gitlibrary\c-RPG\MessageMgr.cpp(15,2): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Monster.cpp
+D:\gitlibrary\c-RPG\DataBase.h(32,1): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  MonsterMgr.cpp
+D:\gitlibrary\c-RPG\DataBase.h(32,1): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+D:\gitlibrary\c-RPG\DataMgr.h(16,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\gitlibrary\c-RPG\MonsterMgr.cpp(17): message : 查看对正在编译的函数 模板 实例化“T *CDataMgr::getMgr<CMonsterDtMgr>(std::string)”的引用
+          with
+          [
+              T=CMonsterDtMgr
+          ]
+  Npc.cpp
+D:\gitlibrary\c-RPG\DataBase.h(32,1): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  NpcMgr.cpp
+D:\gitlibrary\c-RPG\DataBase.h(32,1): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+D:\gitlibrary\c-RPG\DataMgr.h(16,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\gitlibrary\c-RPG\NpcMgr.cpp(23): message : 查看对正在编译的函数 模板 实例化“T *CDataMgr::getMgr<CNpcDtMgr>(std::string)”的引用
+          with
+          [
+              T=CNpcDtMgr
+          ]
+  Player.cpp
+D:\gitlibrary\c-RPG\DataBase.h(32,1): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  PlSelect.cpp
+D:\gitlibrary\c-RPG\DataBase.h(32,1): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+D:\gitlibrary\c-RPG\DataMgr.h(16,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\gitlibrary\c-RPG\PlSelect.cpp(14): message : 查看对正在编译的函数 模板 实例化“T *CDataMgr::getMgr<CPlayerDtMgr>(std::string)”的引用
+          with
+          [
+              T=CPlayerDtMgr
+          ]
+  RoleBase.cpp
+  RolePlayGame.cpp
+D:\gitlibrary\c-RPG\DataBase.h(32,1): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+  正在编译...
+  Shop.cpp
+D:\gitlibrary\c-RPG\DataBase.h(32,1): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+D:\gitlibrary\c-RPG\Shop.cpp(42,87): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\gitlibrary\c-RPG\DataMgr.h(16,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\gitlibrary\c-RPG\Shop.cpp(100): message : 查看对正在编译的函数 模板 实例化“T *CDataMgr::getMgr<CItemDtMgr>(std::string)”的引用
+          with
+          [
+              T=CItemDtMgr
+          ]
+  Vec2.cpp
+  WndBase.cpp
+  正在生成代码...
+  LINK : 没有找到 D:\gitlibrary\c-RPG\x64\Debug\RolePlayerGame.exe 或上一个增量链接没有生成它；正在执行完全链接
+  RolePlayerGame.vcxproj -> D:\gitlibrary\c-RPG\x64\Debug\RolePlayerGame.exe
